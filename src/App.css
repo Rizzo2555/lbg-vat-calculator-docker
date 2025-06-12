@@ -1,13 +1,18 @@
 .field{
-  width: 300px;
+  width: 350px;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px bisque;
   padding: 10px;
 }
 
 .header{
   padding: 10px;
+}
+
+body{
+  background-color: black;
+  color: bisque;
 }
